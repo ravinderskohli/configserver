@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: "configserver"
+  profiles:
+     active: native
+    #active: git
+  cloud:
+    config:
+      server:
+       native:
+      search-locations: "classpath:/config"
+      # search-locations: "file:///Users//eazybytes//Documents//config"
+      #git:
+       # uri: "" //git url
+        #default-lable: main // default branch
+      #timeout: 5
+encrypt:
+   key : "1284664"
+server:
+  port: 8071

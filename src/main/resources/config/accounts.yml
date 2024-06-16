@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Accounts Service related local APIs from Docker acc"
+  contactDetails:
+    name: "Ravinder Singh"
+    email: "ravinderskohli@gmail.com"
+  onCallSupport:
+    - (91) 9871172643
