@@ -8,7 +8,7 @@
 
             }
    
-        }
+        },
 	            stage('sonarqube') {
             steps {
                 bat 'mvn clean verify sonar:sonar \
