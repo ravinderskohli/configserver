@@ -57,7 +57,7 @@
 				<version>3.4.1</version>
 				<configuration>
 					<to>
-						<image>docker.io/ravinderskohli/${project.artifactId}:s1</image>
+						<image>docker.io/ravinderskohli/${project.artifactId}:s4</image>
 					</to>
 				</configuration>
 			</plugin>
